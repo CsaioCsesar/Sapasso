@@ -1,0 +1,226 @@
+#fundo {
+    height: 90%;
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 3%;
+
+}
+
+.nibo {
+    display: flex;
+
+    width: 8%;
+    background-color: white;
+    padding-top: 2%;
+    align-items: center;
+    padding-left: 5%;
+   
+    margin-bottom: 2%;
+    
+
+}
+.img2{
+    width: 100%;
+}
+.img {
+    height: 20%;
+    width: 10%;
+
+}
+
+.preto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 240px;
+    background-image: url(blackfriday-bg-emails.png);
+    
+
+}
+.img3{
+
+}
+
+
+.youtube {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+    
+
+    justify-content: center;
+
+
+}
+
+.central {
+    color: white;
+    text-align: center;
+
+    font-size: 200%;
+
+
+}
+
+.sas {
+    margin-top: 1%;
+}
+
+.sasas {
+    margin-bottom: 1%;
+}
+
+.cronometro {
+
+    color: white;
+    font-size: 200%;
+
+    
+    
+}
+
+.para {
+    padding-left: 6%;
+    padding-top: 6%;
+    padding-bottom:1%;
+    font-size: 90%;
+}
+
+.para2 {
+   display: flex;
+   align-items: center;
+    padding-left: 6%;
+    padding-right: 15%;
+   padding-bottom: 5%;
+    font-size: 90%;
+}
+
+.linha {
+    display: flex;
+    align-items: center;
+    
+    height: 200px;
+    width: 100%;
+    background-color: #f2f2f2;
+
+}
+
+.ab {
+    height: 15%;
+    width: 8px;
+    background-color: #f2c013
+
+    ;
+    margin-left: 3%;
+    border-radius: 5px;
+    
+    
+    color:#f2c013
+
+    ;
+    position: absolute;
+
+}
+
+.palav {
+    padding-left: 8%;
+    
+}
+
+.esp { padding-bottom: 4%;
+    
+}
+
+.lista {
+    height: 150%;
+    background-color: white
+
+    ;
+    padding-left: 6%;
+    padding-right: 8%;
+}
+
+.list1 { 
+   
+}
+.list2{ padding-left: 3%;
+    list-style-image: url("check-yellow.png")
+
+}
+
+.bot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#f2c013
+
+    ;
+    
+    width: 25%;
+    color: black;
+    text-align: center;
+    height: 40px;
+    border-radius: 10px;
+    
+   
+
+
+
+}
+
+.botão {
+   display: flex;
+   justify-content: center;
+    background-color: white;
+    padding-top: 1%;
+}
+
+.aguardo {
+    background-color: white;
+    padding-top: 3%;
+}
+
+.pad {
+    margin-left: 6%;
+ 
+    padding-bottom: 2%;
+    padding-top: 5%;
+     padding-right: 6%;    
+}
+.rodape{
+    display:flex ;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.pleto{
+    display: flex;
+    background-color: #1e1f20
+
+    ;
+    width: 100%;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+.img4{
+    height: 25px;
+    width: 25px;
+    margin-right: 18px;
+}
+.text{
+    width: 600px;
+    font-size: 16px;
+    color: grey;
+}
+.strong{
+color: #689ca7;    
+}
